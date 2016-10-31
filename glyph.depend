@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1469309410 source:/home/william/Documents/Cpp/glyph/main.cpp
+	<iostream>
+	<assert.h>
+	"SourceCode.h"
+	"Interpreter.h"
+	"Compiler.h"
+
+1469243564 /home/william/Documents/Cpp/glyph/include/SourceCode.h
+	<string.h>
+	<iostream>
+	<fstream>
+	<exception>
+
+1469320684 /home/william/Documents/Cpp/glyph/include/Interpreter.h
+	<string>
+	<iostream>
+	<stack>
+
+1469243594 source:/home/william/Documents/Cpp/glyph/src/SourceCode.cpp
+	"SourceCode.h"
+
+1469323795 source:/home/william/Documents/Cpp/glyph/src/Interpreter.cpp
+	"Interpreter.h"
+
+1469310888 /home/william/Documents/Cpp/glyph/include/Compiler.h
+	<string>
+	<fstream>
+	<cv.h>
+
+1469315002 source:/home/william/Documents/Cpp/glyph/src/Compiler.cpp
+	"Compiler.h"
+
+1469585385 source:c:\users\wil98\desktop\glyph\main.cpp
+	<iostream>
+	"SourceCode.h"
+	"Interpreter.h"
+	"Compiler.h"
+
+1469261564 c:\users\wil98\desktop\glyph\include\sourcecode.h
+	<string.h>
+	<iostream>
+	<fstream>
+	<exception>
+
+1469338684 c:\users\wil98\desktop\glyph\include\interpreter.h
+	<string>
+	<iostream>
+	<stack>
+
+1469585199 c:\users\wil98\desktop\glyph\include\compiler.h
+	<string>
+	<fstream>
+	<stdlib.h>
+
+1469341794 source:c:\users\wil98\desktop\glyph\src\interpreter.cpp
+	"Interpreter.h"
+
+1469261594 source:c:\users\wil98\desktop\glyph\src\sourcecode.cpp
+	"SourceCode.h"
+
+1469588441 source:c:\users\wil98\desktop\glyph\src\compiler.cpp
+	"Compiler.h"
+
