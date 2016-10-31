@@ -34,8 +34,8 @@ I get "'g++' is not recognized as an internal or external command." error. Is it
 	Yes, to use the compile function, you will need g++ to compile.
 	On Windows: download MinGW at "https://sourceforge.net/projects/mingw/?source=typ_redirect" and be sure to check g++
 				Don't forget to add "C:\MinGW\bin" to your path environment variables then reboot
-	On Linux: I think you can get your shit together
-	On Mac: Fuck you
+	On Linux: I think you can get it working alone
+	On Mac: Too bad...
 
 How to run .gly scripts?
 	1. cd your way to glyph install folder (where glyph.exe is)
